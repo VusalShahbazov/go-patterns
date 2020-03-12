@@ -1,0 +1,1 @@
+Trying to implement design patterns in golang :D
